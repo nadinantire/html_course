@@ -46,9 +46,4 @@ Modern HTML includes semantic tags that provide more meaningful structures, such
 
 HTML is fundamental to web development and works alongside CSS (Cascading Style Sheets) for styling and JavaScript for interactivity to create complete, functional websites.
 
-# Reference
-
-for more information visit below site:
-
-[W3Schools website](https://www.w3schools.com/)
 
