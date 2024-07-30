@@ -45,3 +45,10 @@ HTML supports embedding multimedia content, such as images (`<img>`), videos (`<
 Modern HTML includes semantic tags that provide more meaningful structures, such as `<article>`, `<section>`, `<nav>`, `<header>`, `<footer>`, and `<aside>`.
 
 HTML is fundamental to web development and works alongside CSS (Cascading Style Sheets) for styling and JavaScript for interactivity to create complete, functional websites.
+
+# Reference
+
+for more information visit below site:
+
+[W3Schools website](https://www.w3schools.com/)
+
