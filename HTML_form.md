@@ -8,9 +8,6 @@ HTML Forms are used to collect user input and send it to a server for processing
 </form>
 ```
 
-write below note as github file with .md extension display it here i will copy it all practical example with their explanation include it in markdown notation
-
-
 **action:** Specifies the URL where the form data should be submitted.
 **method:** Specifies the HTTP method to be used when submitting the form (GET or POST).
 **Example:**
